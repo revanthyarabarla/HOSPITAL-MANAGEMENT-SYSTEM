@@ -7,7 +7,7 @@ A Hospital Management System (HMS) is a comprehensive software platform meticulo
 ### Project Details
 
 - **Project Owner:** RevanthYarabarla
-- **Developer:** Dharani, Revsnth, Deepika
+- **Developer:** Dharani, Revanth, Deepika
 - **Course Name:** Mern Stack Web Development
 - **Technology Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
 
