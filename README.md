@@ -1,4 +1,4 @@
-# Health Care Plus System
+# Hospital Mangement System
 
 ## Project Overview
 
