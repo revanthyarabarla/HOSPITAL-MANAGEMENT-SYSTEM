@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-A Health Care PLus System is a comprehensive software solution designed to streamline and automate hospital operations. It encompasses patient management, appointment scheduling, billing, electronic health records (EHR), inventory management, and reporting, enhancing overall healthcare efficiency and patient care.
+A Hospital Management System (HMS) is a comprehensive software platform meticulously designed to optimize and automate the myriad functions of a healthcare institution. It encompasses a wide array of features including patient management, appointment scheduling, billing, electronic health records (EHR), inventory control, and robust reporting capabilities. By seamlessly integrating these elements, the HMS revolutionizes hospital operations, fostering efficiency and elevating the standard of patient care.
 
 ### Project Details
 
-- **Project Owner:** Muhammad Tahir
-- **Developer:** Usman Asghar
-- **Course Name:** Software Engineering
+- **Project Owner:** RevanthYarabarla
+- **Developer:** Dharani, Revsnth, Deepika
+- **Course Name:** Mern Stack Web Development
 - **Technology Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
 
 ## Features
@@ -27,7 +27,7 @@ Automate the billing process to eliminate errors and improve transparency. Gener
 
 ### 4. Electronic Health Records (EHR)
 
-Digitize health records, ensuring secure and easily accessible information for authorized personnel. Implement features such as real-time updates, document attachments, and user-friendly interfaces to streamline the creation, management, and retrieval of electronic health records.
+Digitize hospital management records, ensuring secure and easily accessible information for authorized personnel. Implement features such as real-time updates, document attachments, and user-friendly interfaces to streamline the creation, management, and retrieval of electronic health records.
 
 ### 5. Inventory Management
 
@@ -35,7 +35,7 @@ Optimize hospital resource utilization by implementing a robust inventory manage
 
 ### 6. Reporting
 
-Enable healthcare professionals to make data-driven decisions by providing comprehensive reporting functionalities. Generate reports on patient outcomes, resource utilization, and financial performance to support strategic planning and continuous improvement.
+Enable hospital management professionals to make data-driven decisions by providing comprehensive reporting functionalities. Generate reports on patient outcomes, resource utilization, and financial performance to support strategic planning and continuous improvement.
 
 ## Technology Stack
 
@@ -48,7 +48,7 @@ The project harnesses the power of the MERN stack:
 
 
 ## Getting Started
-To run the Hwalth Care Plus System locally, follow these steps:
+To run the Hospital Management System locally, follow these steps:
 
 ## Prerequisites
 
@@ -62,7 +62,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/TahirRajpoot/HealthCarePlus_SE_Project.git
+git clone https://github.com/revanthyarabarla/HOSPITAL-MANAGEMENT-SYSTEM.git
 ```
 
 ### 2. Install Dependencies
